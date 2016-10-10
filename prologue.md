@@ -16,7 +16,7 @@ Public sector employees who want to use data to improve how government operates,
 
 In late 2013, when the federal website for the health insurance marketplace created under the Affordable Care Act suffered from a slew of technical problems immediately following its launch, President Obama and technology leaders in the federal government turned to the private sector for help. The resulting influx of technology expertise from outside the bureaucracy helped mitigate the problems with the website and speeded its return to normal operations:
 
-> After initial difficulties, CMS [the Centers for Medicare & Medicaid Services] and contractors **worked with outside experts** to repair HealthCare.gov, instilling changes in the project culture and work processes.<sup>1</sup>  (emphasis added)
+> After initial difficulties, CMS [the Centers for Medicare & Medicaid Services] and contractors **worked with outside experts** to repair HealthCare.gov, instilling changes in the project culture and work processes.<sup>1</sup> (emphasis added)
 
 Following this work, the federal government moved to enhance its internal technology capacity with the creation of two new groups, 18F and the United States Digital Service (USDS). But engaging with outside technology communities continues to be an important part of federal technology innovation efforts.<sup>2</sup> Our government now regularly recruits civic technologists to serve on innovation and technology teams inside of government, and after leaving public service these individuals rejoin their local civic technology communities. A virtuous cycle ensues.
 

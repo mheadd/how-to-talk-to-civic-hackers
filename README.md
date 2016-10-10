@@ -9,8 +9,8 @@ A guide for public servants that want to engage and collaborate with their local
 | Prologue | Building the government data toolkit |
 | Introduction | An overview of why this book was written  |
 | The Case for Engagement  | Recent efforts to collaborate with outside technologists are part of a long history of government engagement with outside experts  | 
-| The Benefits of Engagement  |  What benefits can governments realize by collaborating with their local technology community? | 
-| The Challenges to Engagement  | What barriers and challenges to governments face in collaborating with their local technology community?  | 
+| Benefits of Engagement  |  What benefits can governments realize by collaborating with their local technology community? | 
+| Challenges to Engagement  | What barriers and challenges to governments face in collaborating with their local technology community?  | 
 | Strategies for Engagement  | How can governments get the most out of their efforts to work with members of their local technology community.   | 
 | Epilogue | A discussion of *bug bounties* and how they relate to efforts by governments to work more closely with outside technologists.  | 
 | Appendix  |  A set of survey questions sent to current and former city government employees that informed the writing of this book |  

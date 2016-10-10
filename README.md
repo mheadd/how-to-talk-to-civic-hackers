@@ -13,4 +13,4 @@ A guide for public servants that want to engage and collaborate with their local
 | The Challenges to Engagement  |   | 
 | Strategies for Engagement  |   | 
 | Epilogue |   | 
-| Appendix  |  A set of survey questions sent to current and former city government emloyees |  
+| Appendix  |  A set of survey questions sent to current and former city government employees |  

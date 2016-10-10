@@ -16,14 +16,20 @@ Public sector employees who want to use data to improve how government operates,
 
 In late 2013, when the federal website for the health insurance marketplace created under the Affordable Care Act suffered from a slew of technical problems immediately following its launch, President Obama and technology leaders in the federal government turned to the private sector for help. The resulting influx of technology expertise from outside the bureaucracy helped mitigate the problems with the website and speeded its return to normal operations:
 
-> After initial difficulties, CMS [the Centers for Medicare & Medicaid Services] and contractors worked with outside experts to repair HealthCare.gov, instilling changes in the project culture and work processes.  (emphasis added)
+> After initial difficulties, CMS [the Centers for Medicare & Medicaid Services] and contractors **worked with outside experts** to repair HealthCare.gov, instilling changes in the project culture and work processes.<sup>1</sup>  (emphasis added)
 
-Following this work, the federal government moved to enhance its internal technology capacity with the creation of two new groups, 18F and the United States Digital Service (USDS). But engaging with outside technology communities continues to be an important part of federal technology innovation efforts. Our government now regularly recruits civic technologists to serve on innovation and technology teams inside of government, and after leaving public service these individuals rejoin their local civic technology communities. A virtuous cycle ensues.
+Following this work, the federal government moved to enhance its internal technology capacity with the creation of two new groups, 18F and the United States Digital Service (USDS). But engaging with outside technology communities continues to be an important part of federal technology innovation efforts.<sup>2</sup> Our government now regularly recruits civic technologists to serve on innovation and technology teams inside of government, and after leaving public service these individuals rejoin their local civic technology communities. A virtuous cycle ensues.
 
-Governments must develop strategies for engagement that can help direct the efforts of outside technology experts to issues or challenges that will have the broadest impact and the largest potential payoff. They’ll need to learn how to rally people with special talents to a particular cause or challenge, and then to turn those outside efforts into tangible outcomes for government agencies. They must learn to view the technology community as a potential talent pool from which they can draw a new generation of public servants who possess unique expertise in digital service creation. 
+Governments must develop strategies for engagement that can help direct the efforts of outside technology experts to issues or challenges that will have the broadest impact and the largest potential payoff. They will need to learn how to rally people with special talents to a particular cause or challenge, and then to turn those outside efforts into tangible outcomes for government agencies. They must learn to view the technology community as a potential talent pool from which they can draw a new generation of public servants who possess unique expertise in digital service creation. 
 
-This is often a relatively new skill set for those in government IT departments and CitiStat offices,  where government data efforts commonly reside. These agencies are typically inward facing—serving the needs of other government agencies—and often don’t have long traditions of external engagement.
+This is often a relatively new skill set for those in government IT departments and CitiStat offices, where government data efforts commonly reside.<sup>3</sup> These agencies are typically inward facing—serving the needs of other government agencies—and often don’t have long traditions of external engagement.
 
 The time has come for governments to reimagine their place in the civic technology production chain. More than ever, it is essential that governments assume their role as data stewards, enablers, and conveners to bring the power of these new external tools to bear on the problems facing our communities.
 
 For governments, outside engagement will turn out to be the most important new tool in their 21st century data toolkit.
+
+### Footnotes
+
+1.  For a more detailed discussion of the impact of outside experts on the healthcare.gov project, see the report from the Office of the Inspector General of the Department of Health and Human Services. https://oig.hhs.gov/oei/reports/oei-06-14-00350.pdf 
+2.  For example, see https://www.data.gov/event/white-house-open-data-innovation-summit/.
+3.  For more information on CitiStat programs, see https://www.brookings.edu/book/the-performancestat-potential/. 

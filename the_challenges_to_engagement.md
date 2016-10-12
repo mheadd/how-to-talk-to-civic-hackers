@@ -1,6 +1,8 @@
 # The Challenges to Engagement
 
-![Space Apps Challenge: Philadelphia, PA - April 2013](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/space_apps_challenge.jpg)
+| ![Space Apps Challenge: Philadelphia, PA - April 2013](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/space_apps_challenge.jpg) | 
+|:---:|
+| Space Apps Challenge: Philadelphia, PA - April 2013 |
 
 >Our findings show a critical link between cities and practitioners. Civic tech is not a sector that has been driven forward entirely outside of governmental systems. Rather, it has been built in partnership with key stakeholders inside and outside government…<sup>1</sup>
 >
@@ -108,7 +110,7 @@ The composition of civic technology communities may not be representative of the
 
 Long-term sustainability of civic technology solutions is a common problem, and existing procurement and budgeting processes may not provide adequate ongoing support for such projects, even if they are widely viewed as being valuable. 
 
-### Footnotes
+### Endnotes
 
 1.  http://enginesofchange.omidyar.com/docs/OmidyarEnginesOfChange.pdf 
 2.   Coverage areas for Hatzalah affiliates are listed here https://www.hatzalah.org/coverageArea.php. A discussion of how Hatzalah interacts with 911 dispatch and profesional EMS and fire service see https://www.reddit.com/r/ems/comments/1ava4x/members_of_fdny_what_is_your_relationship_with/. 

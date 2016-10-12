@@ -1,6 +1,10 @@
 # How to Talk to Civic Hackers
 
-A guide for public servants that want to engage and collaborate with their local technology community.
+This book is meant for public servants and people working inside government (at the federal, state, and municipal levels) who want to connect with innovators and technologists outside of the bureaucracy. 
+
+It is designed to help those in government find, communicate, and collaborate with people doing interesting and valuable work that can benefit or support the mission of government. 
+
+It highlights strategies to help government employees leverage the talents of smart, passionate people in their local technology community, as well as those further afield.
 
 ## Contribute
 

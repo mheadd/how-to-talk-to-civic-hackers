@@ -1,4 +1,4 @@
-# The Benefits of Engagement
+# Part 2: The Benefits of Engagement
 | ![Open Oakland: City Hall, Oakland, CA, February 2015](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/open_oakland.jpg) | 
 |:---:|
 | Open Oakland: City Hall, Oakland, CA, February 2015 |

@@ -11,7 +11,7 @@ It is a widely held truism that governments face difficulty implementing technol
 
 It can be tempting to view this lack of technology acumen as a symptom of a larger disfunction. Governments are thought to be large, plodding organizations that do lots of things poorly;technology management and implementation are but one of the many things that governments do not do well. But the challenges facing governments in how they use technology are quite specific. There are a handful of processes, all easily identifiable, that can work against the efficient adoption of technology by governments.
 
-* The annual budget process can provide a disincentive for new ideas and large efficiency gains by “punishing” innovative agencies with smaller allocations and reduced staff in the next budget cycle. 
+* The annual budget process can provide a disincentive for new ideas and large efficiency gains by "punishing" innovative agencies with smaller allocations and reduced staff in the next budget cycle. 
 
 * The procurement process—which can be lengthy, complex, and expensive—can turn away smaller or newer technology providers that might provide value to governments. These providers may simply lack the organizational endurance to get through the existing procurement process. 
 
@@ -21,7 +21,7 @@ Changing any of these processes takes time and political will, and many of the d
 
 As discussed in the prologue to this book, we now live in a time where people outside of government often have better tools to build things with and extract insights from government data than governments themselves do. These tools are more powerful, more plentiful, more flexible, and less expensive than many of the tools that government employees currently have at their disposal (often because of procurement or budget limitations).
 
-Outside technology groups may have specialized skills and experience in building software or technology solutions that governments do not, or that those in the bureaucracy might face difficulty in acquiring. They are also typically unencumbered by political or administrative bar<sup></sup>riers that can sometimes prevent government employees from accessing new data or advancing new ideas.
+Outside technology groups may have specialized skills and experience in building software or technology solutions that governments do not, or that those in the bureaucracy might face difficulty in acquiring. They are also typically unencumbered by political or administrative barriers that can sometimes prevent government employees from accessing new data or advancing new ideas.
 
 The potential benefits of engaging and collaborating with outside technology groups seem clear to many people with firsthand experience with the limitations that governments face in developing new technology solutions. Respondents to a survey of current and former city government employees highlighted a range of potential benefits for governments that find ways to engage with their local technology communities:<sup>3</sup>
 
@@ -45,7 +45,7 @@ There are real benefits for cities that develop strategies for engaging with the
 
 ## Chicago: Using Predictive Analytics to Find Dirty Beaches
 
-More than most other cities, Chicago is leveraging the talents and skills of its local technology community by fostering deep connections with its members. The City’s Chief Data Officer and other city officials are regular attendees at technology meetups, and are readily accessible to people in the community who want to learn more about data that is available from the city. 
+More than most other cities, Chicago is leveraging the talents and skills of its local technology community by fostering deep connections with its members. The City's Chief Data Officer and other city officials are regular attendees at technology meetups, and are readily accessible to people in the community who want to learn more about data that is available from the city. 
 
 This regular, close proximity between city officials with access to and intimate knowledge of city data to members of the technology community with technology skills and a strong desire to improve their city has led to a number of successful projects.<sup>4</sup> 
 
@@ -53,7 +53,7 @@ One of the more notable examples of how the City of Chicago is benefiting from t
 
 While the preexisting model used by the Park District was error prone, in part due to its reliance on data collected by the Park District itself, the new predictive models developed with outside experts incorporated a wider range of data from many different sources:
 
->While the prior model relied primarily on the Park District’s immediate sensor data, the group tested a wide range of external data, including NOAA weather data, sunrise, sunset, and lunar phase data, and data on the status of regional locks and dams. Hyper-local weather information was also integrated into the model, from external data sources such as forecast.io and darksky.net.<sup>7</sup>
+>While the prior model relied primarily on the Park District's immediate sensor data, the group tested a wide range of external data, including NOAA weather data, sunrise, sunset, and lunar phase data, and data on the status of regional locks and dams. Hyper-local weather information was also integrated into the model, from external data sources such as forecast.io and darksky.net.<sup>7</sup>
 
 The experience helps to highlight one of the advantages that governments may realize by collaborating with outside experts on projects like this one. Those operating outside government may be less likely to be impeded in their work by organizational boundaries or political divisions. They may be more willing (and more able) to look farther afield for relevant data and experience that they can use to support such a project.
 
@@ -61,9 +61,9 @@ The experience helps to highlight one of the advantages that governments may rea
 
 Like many other cities, the City of Louisville is working to find ways to better distribute smoke detectors that can help prevent loss of life when house fires occur.<sup>8</sup>
 
-Of particular concern are fires that occur in vacant or abandoned buildings that can potentially spread to involve other nearby occupied structures. Finding ways to detect when fires occur in abandoned buildings more rapidly can help speed the response by emergency personnel and better ensure that such fires don’t spill over into adjacent properties and put lives at risk.
+Of particular concern are fires that occur in vacant or abandoned buildings that can potentially spread to involve other nearby occupied structures. Finding ways to detect when fires occur in abandoned buildings more rapidly can help speed the response by emergency personnel and better ensure that such fires don't spill over into adjacent properties and put lives at risk.
 
-The Louisville Fire Department, the Department of Community Services, and the City’s Office of Performance Improvement and Innovation, as part of a related project, had already gathered data from across city agencies to look at where fires were occurring, whether they involved vacant structures, and whether those fires spread to involve adjacent properties. The city already had a pretty clear picture of where vacant structure fires were likely to occur, but they didn’t have good information on what they could do about it given available resources.
+The Louisville Fire Department, the Department of Community Services, and the City's Office of Performance Improvement and Innovation, as part of a related project, had already gathered data from across city agencies to look at where fires were occurring, whether they involved vacant structures, and whether those fires spread to involve adjacent properties. The city already had a pretty clear picture of where vacant structure fires were likely to occur, but they didn't have good information on what they could do about it given available resources.
 
 The city decided to approach the local technology community for ideas. City officials asked for assistance in identifying ways that fires might be more easily detected in structures that were without electricity and that used low-cost components. In collaboration with a local technology lab,<sup>9</sup> the city organized a hackathon to solicit ideas, build prototypes, and encourage broad experimentation.
 
@@ -81,7 +81,7 @@ By approaching the local tech community as a full partner in helping to find sol
 
 ## Philadelphia: Building a Mobile App for Transit Riders
 
-The City of Philadelphia is well known for its embrace of open data and its close ties to its local technology community,<sup>11</sup> but it was the transit authority in Philadelphia that led the city’s first open data effort.
+The City of Philadelphia is well known for its embrace of open data and its close ties to its local technology community,<sup>11</sup> but it was the transit authority in Philadelphia that led the city's first open data effort.
 
 In 2011, the Southeastern Pennsylvania Regional Transportation Authority (SEPTA) began to experiment with the release of open data sets to the local technology community. Early in that year, SEPTA provided limited access to transit data to participants in a hackathon organized by a small fellowship team working with city government from Code for America. Later that year, at an event specifically focused on transit problems, SEPTA shared a wider array of data to a larger audience from the local technology community.<sup>12</sup>
 
@@ -95,11 +95,11 @@ Originally developed in 2008, the creators of iSepta shut down their app in late
 
 The approach taken by SEPTA in developing its own official transit app is instructive for other governments that want to collaborate with outside technologists.<sup>14</sup> The official SEPTA app was never meant to replace existing transit apps that had been developed by the community— and by that time there were many—it was meant to complement them. By using open data and freely available APIs to encourage outside developers to try new things, SEPTA was given invaluable insights into the possibilities for its data. 
 
-What things would developers try and build? What new technologies were available for displaying and consuming transit data? What would work well? What wouldn’t work well? 
+What things would developers try and build? What new technologies were available for displaying and consuming transit data? What would work well? What wouldn't work well? 
 
 One way to view this approach is to think of it as a technique for outsourcing some of the risk inherent in developing new software applications and mobile apps. Using open data and direct engagement, SEPTA empowered outside developers to try new things and discover what was sustainable. Some apps were widely used,<sup><15/sup> others were not and were eventually shut down.<sup>16</sup>
 
-Having these kinds of insights prior to building an official app gave SEPTA a huge advantage in deciding what they wanted to build. It’s also worth noting that the code for SEPTA’s own official app was released as open source so that any transit developer—perhaps someone that had previously attended a hackathon and built a transit app of their own—can identify an issue or contribute an enhancement.<sup>17</sup>
+Having these kinds of insights prior to building an official app gave SEPTA a huge advantage in deciding what they wanted to build. It's also worth noting that the code for SEPTA's own official app was released as open source so that any transit developer—perhaps someone that had previously attended a hackathon and built a transit app of their own—can identify an issue or contribute an enhancement.<sup>17</sup>
 
 ## Syracuse: Making Better use of Road Data
 
@@ -117,9 +117,9 @@ The city had been tacitly supportive of local volunteer efforts to use governmen
 
 Emulating the approach taken in Louisville, Syracuse is bringing existing city data and access to city experts to an event that will span several weeks and piggyback on an existing hackathon series that draws participants from across the Upstate New York Region.<sup>18</sup> In advance of the hackathon, the city will hold a series of in-depth sessions (in partnership with the School of Information Studies at Syracuse University) where experts will help participants become more familiar with the data and address their questions.
 
-Similar to Chicago’s experience with outside developers to build a predictive model for beach quality, Syracuse is encouraging the use of a range of data sources from federal state and local sources to assist participants in their efforts.
+Similar to Chicago's experience with outside developers to build a predictive model for beach quality, Syracuse is encouraging the use of a range of data sources from federal state and local sources to assist participants in their efforts.
 
-Syracuse’s efforts illustrate many of the techniques that governments can use to collaborate with their local technology community. It also demonstrates how these successful techniques can be reused by governments that are new to this type of engagement and that have smaller, more dispersed technology communities.
+Syracuse's efforts illustrate many of the techniques that governments can use to collaborate with their local technology community. It also demonstrates how these successful techniques can be reused by governments that are new to this type of engagement and that have smaller, more dispersed technology communities.
 
 ## Summary
 

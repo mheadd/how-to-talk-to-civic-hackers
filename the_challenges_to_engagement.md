@@ -17,12 +17,12 @@ In surveying a group of current and former city government employees with experi
 Project scoping and sustainability were mentioned as challenges by almost every survey respondent:
 
 >One challenge is the external parties' time and commitment to the project. Cities should not rely on these partnerships to provide enterprise level solutions for big city problems. 
-
+<hr/>
 >Most of this is done on a volunteer basis, which necessarily limits the scope to tiny, weekend- or evening-level wins, resulting in criticism that our ideas and solutions aren't big enough. Expectations on the government side for what people can/should do without any form of compensation are unrealistic. 
 
 One way to view the efforts of volunteers from the local technology community who want to devote time and energy building solutions for their city or community as part of a larger tradition of volunteerism which has benefited governments for many years. Government collaboration with volunteers may be new to the world of technology and software development, but in other areas of public service delivery it is far more common. Volunteer fire and ambulance companies are probably the most well-known example of volunteer efforts providing critical services in some communities, where government-supported professional services are used in other communities.
 
-This does not mean, however, that volunteer efforts to supplement or improve government services can exist only in areas where governments are unable (or unwilling) to provide such services. There are some prominent examples where volunteer efforts operate side-by-side with government-supported professional services, even in the case of critical services like fire and emergency services. For example, the Hatzalah is a volunteer emergency medical and ambulance organization that serves Jewish communities in cities around the world, but most notably in larger urban and suburban areas (like the New York City area, where paid ambulance services already exist) that have large Jewish populations.
+This does not mean, however, that volunteer efforts to supplement or improve government services can exist only in areas where governments are unable (or unwilling) to provide such services. There are some prominent examples where volunteer efforts operate side-by-side with government-supported professional services, even in the case of critical services like fire and emergency services. For example, the Hatzalah is a volunteer emergency medical and ambulance organization that serves Jewish communities in cities around the world, but most notably in larger urban and suburban areas (like the New York City area, where paid ambulance services already exist) that have large Jewish populations.<sup>2</sup>
 
 Neighborhood watch groups, adopt-a-highway programs, and community cleanup efforts are other common examples where volunteers are helping to provide (or enhance) a service that would ordinarily fall to government alone to provide. In many of these examples, the level of specialized skill needed to participate in a volunteer activity is relatively low, which contrasts with volunteer activities focused on building technology or using data, which may require very specialized skills. 
 
@@ -32,13 +32,13 @@ In the case of volunteers from the world of technology, government employees may
 
 One respondent to the survey of current and former city government employees described these limitations this way:
 
-There are many restrictions on what technologies I can use, which makes it hard to collaborate. We are generally set up only to work on projects we either own completely or take no responsibility for. Working in true partnership is extremely difficult to do. 
+>There are many restrictions on what technologies I can use, which makes it hard to collaborate. We are generally set up only to work on projects we either own completely or take no responsibility for. Working in true partnership is extremely difficult to do. 
 
-In addition, opportunities to meet and collaborate with the local technology community in the same physical space often occur at inopportune times for government employees. Technology meetups and hackathons typically occur after traditional work hours or on weekends, and often take place outside of official government offices. It is rare for governments to have official remote work policies that would better enable public sector employees to participate in these events.
+In addition, opportunities to meet and collaborate with the local technology community in the same physical space often occur at inopportune times for government employees. Technology meetups and hackathons typically occur after traditional work hours or on weekends, and often take place outside of official government offices. It is rare for governments to have official remote work policies that would better enable public sector employees to participate in these events.<sup>3</sup>
 
 In Philadelphia, one recent government employee with close ties to the local technology community opted to leave government service—in part—because of restrictions on working remotely that stifled opportunities for closer collaboration with outside groups:
 
-Little things, like time tracking and a byzantine work-from-home policy, eat away at creative workers used to a more enlightened approach.
+>Little things, like time tracking and a byzantine work-from-home policy, eat away at creative workers used to a more enlightened approach.<sup>4</sup>
 
 ## The Free Work Problem
 
@@ -46,7 +46,7 @@ As noted above, it can be challenging to scope work for volunteers on civic tech
 
 Since many of the other mechanisms governments already use to tap into outside expertise operate under the direction and control of government, it can be tempting at times to view civic technology volunteers as direct extensions of government IT staff. This can lead to problems if government employees view the efforts of outside experts simply as a way of achieving their own project and policy goals.
 
-In Madison, Wisconsin, a nascent engagement effort between city officials and the local technology community got off to a rocky start when city officials presented a list of projects to the civic technology community. Government officials presented this list as an expression of their own priorities, with the expectation that the technology community would embrace these priorities and begin working on the identified projects. It didn’t work out that way.
+In Madison, Wisconsin, a nascent engagement effort between city officials and the local technology community got off to a rocky start when city officials presented a list of projects to the civic technology community.<sup>5</sup> Government officials presented this list as an expression of their own priorities, with the expectation that the technology community would embrace these priorities and begin working on the identified projects. It didn't work out that way.
 
 The civic technology community largely ignored the recommendations from the city. Public comments suggest they reacted negatively to the idea that they should primarily be focused on working solely on what city officials believed was important. 
 
@@ -54,7 +54,7 @@ Taking the "free work" view of a volunteer technology community can be counterpr
 
 Interacting with a volunteer community—particularly one that is comprised largely of technologists, developers, and creative individuals—is more complicated than interacting with other outside constituencies. Since the market values the skills of this community highly, they are typically very aware of the value of their efforts. Engaging this community requires an understanding that members want to be a part of both building the solution and helping identifying the problem to be worked on.
 
-Alex Hillman, cofounder of the pioneering Philadelphia coworking space Indy Hall and an expert on building and nurturing creative communities, offers the following observation on engaging a community around a specific problem or issue:
+Alex Hillman, cofounder of the pioneering Philadelphia coworking space Indy Hall and an expert on building and nurturing creative communities, offers the following observation on engaging a community around a specific problem or issue:<sup>6</sup>
 
 >People don't like a story where they know what happens (or is supposed to happen) at the end nearly as much as they like a story with potential and possibility. You can tell people how it's going to go, or you can learn to let them co-author the story with you.
 
@@ -80,19 +80,19 @@ A persistent problem that vexes many volunteer technology communities is the lon
 
 This problem was raised by several different respondents to the survey of current and former city government employees:
 
-The usual red tape of procurement which is not set up to make use of smaller, shorter engagements with individuals and small companies [is a challenge]. Reform is needed.
+>The usual red tape of procurement which is not set up to make use of smaller, shorter engagements with individuals and small companies [is a challenge]. Reform is needed.
+<hr/>
+>There's literally no mechanism by which government can "catch the ball." The way we procure and build software is out of sync with both user needs and the realities of the modern market. 
 
-There's literally no mechanism by which government can "catch the ball." The way we procure and build software is out of sync with both user needs and the realities of the modern market. 
-
-In 2011, a small group of technology volunteers began a project to develop an application for San Francisco’s Municipal Transportation Agency (MUNI) that would allow MUNI managers to track the position of city buses in real time. The goal of the project was to improve on and eventually replace the existing paper-based system used by MUNI track vehicle location by using modern software development techniques and commodity mobile devices. Developed in less than two weeks, the solution developed by the group was lauded by the city officials who viewed it.
+In 2011, a small group of technology volunteers began a project to develop an application for San Francisco's Municipal Transportation Agency (MUNI) that would allow MUNI managers to track the position of city buses in real time. The goal of the project was to improve on and eventually replace the existing paper-based system used by MUNI track vehicle location by using modern software development techniques and commodity mobile devices. Developed in less than two weeks, the solution developed by the group was lauded by the city officials who viewed it.<sup>7</sup>
 
 But the application was never adopted by MUNI, where managers went on using their existing paper-based tracking system, and city officials later acknowledged that they did not have the resources or the mechanisms to bring such a solution in house. As one respondent to the survey of current and former city government employees put it:
 
 >...if we can't maintain it after it's built, it is kind of useless to us.
 
-Identifying ways to sustain and expand awareness of solutions developed by the volunteer technology community is often a more challenging problem than fostering interest in building apps. Ensuring that all parties’ expectations for long-term maintenance and enhancement of volunteer-built applications are aligned is a key to their ultimate success. 
+Identifying ways to sustain and expand awareness of solutions developed by the volunteer technology community is often a more challenging problem than fostering interest in building apps. Ensuring that all parties' expectations for long-term maintenance and enhancement of volunteer-built applications are aligned is a key to their ultimate success. 
 
-The technology community in Madison, Wisconsin, identified a pet registration application as a worthy project and invested time in developing an application called PetPass, which officially launched in 2013. Like the previous example of a tablet-based tracking application for San Francisco’s MUNI, city officially initially praised the work and vowed to use it inside the city government.
+The technology community in Madison, Wisconsin, identified a pet registration application as a worthy project and invested time in developing an application called PetPass, which officially launched in 2013. Like the previous example of a tablet-based tracking application for San Francisco's MUNI, city officially initially praised the work and vowed to use it inside the city government.<sup>8</sup>
 
 Several months later, however, the city launched a competing pet registration application, which strained relations with the volunteer technology community. The community eventually abandoned their project and a growing sense of frustration dramatically reduced interest in working on civic technology projects.
 
@@ -111,3 +111,11 @@ Long-term sustainability of civic technology solutions is a common problem, and 
 ### Footnotes
 
 1.  http://enginesofchange.omidyar.com/docs/OmidyarEnginesOfChange.pdf 
+2.   Coverage areas for Hatzalah affiliates are listed here https://www.hatzalah.org/coverageArea.php. A discussion of how Hatzalah interacts with 911 dispatch and profesional EMS and fire service see https://www.reddit.com/r/ems/comments/1ava4x/members_of_fdny_what_is_your_relationship_with/. 
+3.  There are many examples of government officials who attend regular technology meetups, but it’s not always clear if these officials re attending such events in their official capacity or if they are carving time out of their personal schedules to attend.
+4.  http://technical.ly/philly/2016/04/11/gabriel-farrell-city-government/ 
+5.  For a fuller discussion of the issues in the Madison civic technology community, see http://host.madison.com/ct/news/local/error-why-are-madison-s-open-data-and-civic-hacking/article_a25a8ffd-0afd-5016-ac6f-305b2217d2c3.html  
+6.  http://dangerouslyawesome.com/2012/09/5-reasons-your-community-isnt-growing/ 
+7.  http://www.nytimes.com/2012/04/22/us/smart-muni-app-for-san-francisco-transit-goes-unused.html 
+8.  http://host.madison.com/ct/news/local/error-why-are-madison-s-open-data-and-civic-hacking/article_a25a8ffd-0afd-5016-ac6f-305b2217d2c3.html 
+

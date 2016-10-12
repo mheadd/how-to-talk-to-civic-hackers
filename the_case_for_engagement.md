@@ -1,6 +1,8 @@
 # The Case for Engagement
 
-![Hack Upstate: Syracuse, NY, October 2015](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/hack_upstate.jpg)
+| ![Hack Upstate: Syracuse, NY, October 2015](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/hack_upstate.jpg) | 
+|:---:|
+| Hack Upstate: Syracuse, NY, October 2015 |
 
 >Contemporary democracies face challenges of building inclusive governance given bureaucratized governments tasked to make policy for large populations. Governance is viewed as a matter of technocratic elites grappling with interdependent, highly challenging problems.<sup>1</sup>
 >
@@ -118,7 +120,7 @@ The modern civic technology movement sits firmly in the tradition of coproductio
 
 Identifying, communicating, and collaborating with groups in the world of civic technology engaged in exoproduction can be a challenge for governments given the existing tools available to them to collaborate with outside experts.
 
-### Footnotes
+### Endnotes
 
 1. https://www.brookings.edu/book/democracy-reinvented/
 2.  We might also include input like that which is given at public meetings, like testimony at legislative council meetings, in this category. Those familiar with Sherry Arnstein's "Ladder of Citizen Participation" may place these mechanisms in the consultation rung of the ladder. http://lithgow-schmidt.dk/sherry-arnstein/ladder-of-citizen-participation.html 

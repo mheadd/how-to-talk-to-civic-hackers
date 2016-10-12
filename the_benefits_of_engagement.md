@@ -1,6 +1,7 @@
 # The Benefits of Engagement
-
-![Open Oakland: City Hall, Oakland, CA, February 2015](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/open_oakland.jpg)
+| ![Open Oakland: City Hall, Oakland, CA, February 2015](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/open_oakland.jpg) | 
+|:---:|
+| Open Oakland: City Hall, Oakland, CA, February 2015 |
 
 >Whereas dramatic efficiency gains and cost savings in the economy are rewarded through profits, promotions, stock price increases and market share, similar gains in government are rewarded with budget cuts, staff reductions, loss of resources and consolidation of programs. In this instance, incentives and rewards in the institution of government are the obverse of those in the market.<sup>1</sup>
 >
@@ -84,7 +85,9 @@ The City of Philadelphia is well known for its embrace of open data and its clos
 
 In 2011, the Southeastern Pennsylvania Regional Transportation Authority (SEPTA) began to experiment with the release of open data sets to the local technology community. Early in that year, SEPTA provided limited access to transit data to participants in a hackathon organized by a small fellowship team working with city government from Code for America. Later that year, at an event specifically focused on transit problems, SEPTA shared a wider array of data to a larger audience from the local technology community.<sup>12</sup>
 
-![Apps for SEPTA: Philadelphia, PA, October 2011](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/apps_for_septa.jpg)
+| ![Apps for SEPTA: Philadelphia, PA, October 2011](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/apps_for_septa.jpg) | 
+|:---:|
+| Apps for SEPTA: Philadelphia, PA, October 2011 |
 
 SEPTAs view of open data has evolved over time. Prior to formally embracing open data and encouraging outside developers to use its data, SEPTA resisted efforts by some in the local technology community to improve on what they saw as a suboptimal way of accessing transit schedule data. The creators of a mobile application called iSepta originally scraped schedule data from SEPTAs public website for their application. This early application gave transit riders a taste of what was possible if SEPTA opened up its data for outside developers to use, and gave SEPTA a sense of how interested outside developers were in building new apps, apps that would specifically benefit transit riders.
 
@@ -104,7 +107,9 @@ Like other cities in the Snowbelt, Syracuse faces a constant challenge in mainta
 
 Brutal winters with record snowfalls lead to constant plowing and heavy use of road salt, which takes a toll on the condition of roads. A declining tax base, competing priorities, and lack of funding from the state and federal government exacerbate the challenge of repaving roads and keeping them in good condition.
 
-![Syracuse Road Data Challenge Kickoff: Syracuse University, Syracuse, NY - September 2016](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/syracuse_road_data_challenge.jpg)
+| ![Syracuse Road Data Challenge Kickoff: Syracuse University, Syracuse, NY - September 2016](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/syracuse_road_data_challenge.jpg) | 
+|:---:|
+| Syracuse Road Data Challenge Kickoff: Syracuse University, Syracuse, NY - September 2016 |
 
 Syracuse has an abundance of existing road data, the product of work on other data-centric projects. The city is using truck-mounted cameras and inexpensive computers to map the location of potholes on all 388 miles of city streets, and is partnering with an outside group of data scientists at the University of Chicago to build analytic models for water infrastructure to help prioritize investment and repairs.
 

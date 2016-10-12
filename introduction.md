@@ -1,6 +1,7 @@
 # Introduction
-
-![Empathy Jam: New York City, August 2016](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/empathy_jam.jpg)
+| ![Empathy Jam: New York City, August 2016](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/empathy_jam.jpg) | 
+|:---:|
+| Empathy Jam: New York City, August 2016 
 
 >We need to insist on collaboration not merely as an ideal, but as a basic design element for government.<sup>1</sup>
 
@@ -26,7 +27,7 @@ These new opportunities for collaborating often occur after traditional work hou
 
 This book offers strategies to overcome these barriers and leverage the talents of those outside government for the public benefit.
 
-##Who is this book for?
+## Who is this book for?
 
 This book is meant for public servants and people working inside government (at the federal, state, and municipal levels) who want to connect with innovators and technologists outside of the bureaucracy. It is meant to complement other useful sources of information for government employees on engagement and outreach around data and technology.<sup>4</sup>
 
@@ -52,11 +53,11 @@ Mark Headd is the former Chief Data Officer for the City of Philadelphia, one of
 
 Mark has over a dozen years of combined experience working at the federal, state, and local level in the U.S., including one of the largest states in the nation and one of the largest cities. His experience spans both the executive and legislative branches of government: he has worked as a policy adviser, a budget and tax analyst, and as a government technology executive.
 
-Before joining the City of Philadelphia, Mark served as the chief policy and budget adviser for the State of Delaware’s Department of Technology and Information. He has also served as Director of the Delaware Government Information Center, as a technology adviser to former Delaware Governor Thomas R. Carper, and in the New York State Senate as a budget and finance analyst. He currently works as an Innovation Specialist for Technology Transformation Service in the General Services Administration, which helps federal agencies build, buy, and deploy 21st century digital services.
+Before joining the City of Philadelphia, Mark served as the chief policy and budget adviser for the State of Delaware's Department of Technology and Information. He has also served as Director of the Delaware Government Information Center, as a technology adviser to former Delaware Governor Thomas R. Carper, and in the New York State Senate as a budget and finance analyst. He currently works as an Innovation Specialist for Technology Transformation Service in the General Services Administration, which helps federal agencies build, buy, and deploy 21st century digital services.
 
-Self taught in technology and software development, he holds a Master’s Degree in Public Administration from the Maxwell School of Citizenship and Public Affairs at Syracuse University. He is a former adjunct instructor at the University of Delaware where he taught a course in electronic government in the School of Public Policy and Administration, and is a former instructor at Wilmington University where he taught a course in government finance.
+Self taught in technology and software development, he holds a Master's Degree in Public Administration from the Maxwell School of Citizenship and Public Affairs at Syracuse University. He is a former adjunct instructor at the University of Delaware where he taught a course in electronic government in the School of Public Policy and Administration, and is a former instructor at Wilmington University where he taught a course in government finance.
 
-### Footnotes
+### Endnotes
 
 1. The Collaborative State: How Working Together Can Transform Public Services, ed. Simon Parker and Niamh Gallagher (London: Demos, 2007). 
 2. For example, requirements to be inclusive and transparent which often add additional steps and time to processes that select or implement technology solutions, or the typical procurement and budgeting processes which can takes months and even years.

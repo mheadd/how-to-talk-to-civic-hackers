@@ -1,4 +1,4 @@
-# The Challenges to Engagement
+# Part 3: The Challenges to Engagement
 
 | ![Space Apps Challenge: Philadelphia, PA - April 2013](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/space_apps_challenge.jpg) | 
 |:---:|

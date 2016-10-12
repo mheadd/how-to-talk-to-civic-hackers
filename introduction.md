@@ -1,4 +1,4 @@
-# Introduction
+# About this book
 | ![Empathy Jam: New York City, August 2016](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/empathy_jam.jpg) | 
 |:---:|
 | Empathy Jam: New York City, August 2016 

@@ -97,7 +97,7 @@ The approach taken by SEPTA in developing its own official transit app is instru
 
 What things would developers try and build? What new technologies were available for displaying and consuming transit data? What would work well? What wouldn't work well? 
 
-One way to view this approach is to think of it as a technique for outsourcing some of the risk inherent in developing new software applications and mobile apps. Using open data and direct engagement, SEPTA empowered outside developers to try new things and discover what was sustainable. Some apps were widely used,<sup><15/sup> others were not and were eventually shut down.<sup>16</sup>
+One way to view this approach is to think of it as a technique for outsourcing some of the risk inherent in developing new software applications and mobile apps. Using open data and direct engagement, SEPTA empowered outside developers to try new things and discover what was sustainable. Some apps were widely used,<sup>15</sup> others were not and were eventually shut down.<sup>16</sup>
 
 Having these kinds of insights prior to building an official app gave SEPTA a huge advantage in deciding what they wanted to build. It's also worth noting that the code for SEPTA's own official app was released as open source so that any transit developer—perhaps someone that had previously attended a hackathon and built a transit app of their own—can identify an issue or contribute an enhancement.<sup>17</sup>
 

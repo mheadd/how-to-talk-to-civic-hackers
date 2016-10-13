@@ -8,7 +8,7 @@ You can help make this book better by [opening an issue](https://github.com/mhea
 
 ## License
 
-This book is available under an open source license. See the [license file](#).
+This book is available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. See the [license details here](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Attributions
 

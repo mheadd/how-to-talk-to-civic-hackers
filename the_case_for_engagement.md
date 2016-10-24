@@ -1,4 +1,4 @@
-# Part 1: The Case for Engagement
+# Section 1: The Case for Engagement
 
 | ![Hack Upstate: Syracuse, NY, October 2015](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/hack_upstate.jpg) | 
 |:---:|

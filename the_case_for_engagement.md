@@ -116,7 +116,7 @@ There is a long tradition of practice and body of research around the idea of co
 
 Governments use a variety of existing mechanisms to leverage the expertise and skills of people outside of government to help them fulfill their mission. These mechanisms are almost always under the direct, formal control of government and involve the transfer of money or authority (or both) to outside parties to act on behalf of government or in some other official capacity.
 
-The modern civic technology movement sits firmly in the tradition of coproduction and helps extend it by enabling services and solutions to be developed in ways that don’t fall under the direct control of government and do not require governments to transfer money or authority to outside parties.
+The modern civic technology movement sits firmly in the tradition of coproduction and helps extend it by enabling services and solutions to be developed in ways that don't fall under the direct control of government and do not require governments to transfer money or authority to outside parties.
 
 Identifying, communicating, and collaborating with groups in the world of civic technology engaged in exoproduction can be a challenge for governments given the existing tools available to them to collaborate with outside experts.
 

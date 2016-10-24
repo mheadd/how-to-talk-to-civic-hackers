@@ -45,7 +45,7 @@ There are real benefits for cities that develop strategies for engaging with the
 
 ## Chicago: Using Predictive Analytics to Find Dirty Beaches
 
-More than most other cities, Chicago is leveraging the talents and skills of its local technology community by fostering deep connections with its members. The City's Chief Data Officer and other city officials are regular attendees at technology meetups, and are readily accessible to people in the community who want to learn more about data that is available from the city. 
+More than most other cities, Chicago is benefiting from the talents and skills of its local technology community by fostering deep connections with its members. The City's Chief Data Officer and other city officials are regular attendees at technology meetups, and are readily accessible to people in the community that have an interest in working on projects with civic benefits. 
 
 This regular, close proximity between city officials with access to and intimate knowledge of city data to members of the technology community with technology skills and a strong desire to improve their city has led to a number of successful projects.<sup>4</sup> 
 

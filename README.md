@@ -16,4 +16,4 @@ The [cover photo](cover.jpg) is available under a [Creative Commons license](htt
 
 ## Author's Note
 
-The ideas and recommendations articulated in this book are mine, based on my experiences working in state and local government, and working with local technology groups in cities across the country. The opinions express in this book do not represent those of any government or organization that has ever employed me.
+The ideas and recommendations articulated in this book are mine, based on my experiences working in state and local government, and working with local technology groups in cities across the country. The positions, strategies and opinions expressed in this work do not represent those of any government or organization that has ever employed me.

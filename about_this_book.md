@@ -33,7 +33,7 @@ This book is meant for public servants and people working inside government (at 
 
 It is designed to help civil servants find, communicate, and collaborate with people doing interesting and valuable work-particularly those working with technology-that can benefit or support the mission of government. It highlights strategies to help government employees leverage the talents of smart, passionate people in their local technology community, as well as those further afield.
 
-As part of the process of writing this book, I surveyed a group of government employees (and former employees) from a number of different jurisdictions that have well-established relationships with outside groups of volunteer technologists. In addition, I shared an early draft of this book with government employees from a broader group of jurisdictions that also have established partnerships with outside technology groups. I’ve included several relevant comments from this group that enhanced the general theme of the book.
+This book was written, in part, using responses from a survey of government employees (and former employees) from a number of different jurisdictions that have well-established relationships with outside groups of volunteer technologists. 
 
 ## How is this book organized?
 

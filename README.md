@@ -13,3 +13,7 @@ This book is available under a Creative Commons Attribution-NonCommercial-ShareA
 ## Attributions
 
 The [cover photo](cover.jpg) is available under a [Creative Commons license](https://creativecommons.org/licenses/by-sa/2.0/) courtesy of Flickr user Kevin Burkett.
+
+## Author's Note
+
+The ideas and recommendations articulated in this book are mine, based on my experiences working in state and local government, and working with local technology groups in cities across the country. The opinions express in this book do not represent those of any government or organization that has ever employed me.

@@ -1,4 +1,4 @@
-# Part 4: Strategies for Engagement
+# Section 4: Strategies for Engagement
 
 | ![Hack for Reno: Reno, NV, October 2014](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/hack_for_reno.jpg) | 
 |:---:|

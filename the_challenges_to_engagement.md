@@ -36,11 +36,17 @@ One respondent to the survey of current and former city government employees des
 
 >There are many restrictions on what technologies I can use, which makes it hard to collaborate. We are generally set up only to work on projects we either own completely or take no responsibility for. Working in true partnership is extremely difficult to do. 
 
-In addition, opportunities to meet and collaborate with the local technology community in the same physical space often occur at inopportune times for government employees. Technology meetups and hackathons typically occur after traditional work hours or on weekends, and often take place outside of official government offices. It is rare for governments to have official remote work policies that would better enable public sector employees to participate in these events.<sup>3</sup>
+In addition, opportunities to meet and collaborate with the local technology community in the same physical space often occur at inopportune times for government employees. Technology meetups and hackathons typically occur after traditional work hours or on weekends, and often take place outside of official government offices. The previous section touched on efforts in the City of Chicago, where government officials are regular participants in events organized by the local technology community. However, this is often the exception rather than the rule — it is rare for governments to have official remote work policies that would better enable public sector employees to participate in these events.<sup>3</sup>
 
-In Philadelphia, one recent government employee with close ties to the local technology community opted to leave government service—in part—because of restrictions on working remotely that stifled opportunities for closer collaboration with outside groups:
+Beyond just a minor inconvenience, this limitation goes to the heart of what some experts believe is a key ingredient in fostering innovative partnerships. As an example, consider the work done by Bell Labs and the culture of creativity fostered by its longtime leader, Mervin Kelly.<sup>4</sup> As research director at Bell Labs, Kelly had very specific thoughts on the need for physical proximity to foster innovation and new ideas:
 
->Little things, like time tracking and a byzantine work-from-home policy, eat away at creative workers used to a more enlightened approach.<sup>4</sup>
+>His fundamental belief was that an 'institute of creative technology' like his own needed a 'critical mass' of talented people to foster a busy exchange of ideas. But innovation required much more than that. Mr. Kelly was convinced that physical proximity was everything; phone calls alone wouldn't do. Quite intentionally, Bell Labs housed thinkers and doers under one roof. Purposefully mixed together on the transistor project were physicists, metallurgists and electrical engineers; side by side were specialists in theory, experimentation and manufacturing.<sup>5</sup>
+
+This same thinking underlies the creation of new public and private collaboration spaces like Civic Hall in New York City and Superpublic in San Francisco.<sup>6</sup> These are places where government employees and those from the technology community and other sectors can work in close proximity to share ideas and create new solutions to persistent problems.
+
+The absence of opportunities for government employees to work in close collaboration with outside groups can foster apathy and frustration. In Philadelphia, one recent government employee with close ties to the local technology community opted to leave government service—in part—because of restrictions on working remotely that stifled opportunities for closer physical proximity and collaboration with outside groups:
+
+>Little things, like time tracking and a byzantine work-from-home policy, eat away at creative workers used to a more enlightened approach.<sup>7</sup>
 
 ## The Free Work Problem
 
@@ -48,7 +54,7 @@ As noted above, it can be challenging to scope work for volunteers on civic tech
 
 Since many of the other mechanisms governments already use to tap into outside expertise operate under the direction and control of government, it can be tempting at times to view civic technology volunteers as direct extensions of government IT staff. This can lead to problems if government employees view the efforts of outside experts simply as a way of achieving their own project and policy goals.
 
-In Madison, Wisconsin, a nascent engagement effort between city officials and the local technology community got off to a rocky start when city officials presented a list of projects to the civic technology community.<sup>5</sup> Government officials presented this list as an expression of their own priorities, with the expectation that the technology community would embrace these priorities and begin working on the identified projects. It didn't work out that way.
+In Madison, Wisconsin, a nascent engagement effort between city officials and the local technology community got off to a rocky start when city officials presented a list of projects to the civic technology community.<sup>8</sup> Government officials presented this list as an expression of their own priorities, with the expectation that the technology community would embrace these priorities and begin working on the identified projects. It didn't work out that way.
 
 The civic technology community largely ignored the recommendations from the city. Public comments suggest they reacted negatively to the idea that they should primarily be focused on working solely on what city officials believed was important. 
 
@@ -56,7 +62,7 @@ Taking the "free work" view of a volunteer technology community can be counterpr
 
 Interacting with a volunteer community—particularly one that is comprised largely of technologists, developers, and creative individuals—is more complicated than interacting with other outside constituencies. Since the market values the skills of this community highly, they are typically very aware of the value of their efforts. Engaging this community requires an understanding that members want to be a part of both building the solution and helping identifying the problem to be worked on.
 
-Alex Hillman, cofounder of the pioneering Philadelphia coworking space Indy Hall and an expert on building and nurturing creative communities, offers the following observation on engaging a community around a specific problem or issue:<sup>6</sup>
+Alex Hillman, cofounder of the pioneering Philadelphia coworking space Indy Hall and an expert on building and nurturing creative communities, offers the following observation on engaging a community around a specific problem or issue:<sup>9</sup>
 
 >People don't like a story where they know what happens (or is supposed to happen) at the end nearly as much as they like a story with potential and possibility. You can tell people how it's going to go, or you can learn to let them co-author the story with you.
 
@@ -86,7 +92,7 @@ This problem was raised by several different respondents to the survey of curren
 <hr/>
 >There's literally no mechanism by which government can "catch the ball." The way we procure and build software is out of sync with both user needs and the realities of the modern market. 
 
-In 2011, a small group of technology volunteers began a project to develop an application for San Francisco's Municipal Transportation Agency (MUNI) that would allow MUNI managers to track the position of city buses in real time. The goal of the project was to improve on and eventually replace the existing paper-based system used by MUNI track vehicle location by using modern software development techniques and commodity mobile devices. Developed in less than two weeks, the solution developed by the group was lauded by the city officials who viewed it.<sup>7</sup>
+In 2011, a small group of technology volunteers began a project to develop an application for San Francisco's Municipal Transportation Agency (MUNI) that would allow MUNI managers to track the position of city buses in real time. The goal of the project was to improve on and eventually replace the existing paper-based system used by MUNI track vehicle location by using modern software development techniques and commodity mobile devices. Developed in less than two weeks, the solution developed by the group was lauded by the city officials who viewed it.<sup>10</sup>
 
 But the application was never adopted by MUNI, where managers went on using their existing paper-based tracking system, and city officials later acknowledged that they did not have the resources or the mechanisms to bring such a solution in house. As one respondent to the survey of current and former city government employees put it:
 
@@ -94,7 +100,7 @@ But the application was never adopted by MUNI, where managers went on using thei
 
 Identifying ways to sustain and expand awareness of solutions developed by the volunteer technology community is often a more challenging problem than fostering interest in building apps. Ensuring that all parties' expectations for long-term maintenance and enhancement of volunteer-built applications are aligned is a key to their ultimate success. 
 
-The technology community in Madison, Wisconsin, identified a pet registration application as a worthy project and invested time in developing an application called PetPass, which officially launched in 2013. Like the previous example of a tablet-based tracking application for San Francisco's MUNI, city officially initially praised the work and vowed to use it inside the city government.<sup>8</sup>
+The technology community in Madison, Wisconsin, identified a pet registration application as a worthy project and invested time in developing an application called PetPass, which officially launched in 2013. Like the previous example of a tablet-based tracking application for San Francisco's MUNI, city officially initially praised the work and vowed to use it inside the city government.<sup>11</sup>
 
 Several months later, however, the city launched a competing pet registration application, which strained relations with the volunteer technology community. The community eventually abandoned their project and a growing sense of frustration dramatically reduced interest in working on civic technology projects.
 
@@ -115,9 +121,12 @@ Long-term sustainability of civic technology solutions is a common problem, and 
 1.  http://enginesofchange.omidyar.com/docs/OmidyarEnginesOfChange.pdf 
 2.   Coverage areas for Hatzalah affiliates are listed here https://www.hatzalah.org/coverageArea.php. A discussion of how Hatzalah interacts with 911 dispatch and profesional EMS and fire service see https://www.reddit.com/r/ems/comments/1ava4x/members_of_fdny_what_is_your_relationship_with/. 
 3.  There are many examples of government officials who attend regular technology meetups, but it’s not always clear if these officials re attending such events in their official capacity or if they are carving time out of their personal schedules to attend.
-4.  http://technical.ly/philly/2016/04/11/gabriel-farrell-city-government/ 
-5.  For a fuller discussion of the issues in the Madison civic technology community, see http://host.madison.com/ct/news/local/error-why-are-madison-s-open-data-and-civic-hacking/article_a25a8ffd-0afd-5016-ac6f-305b2217d2c3.html  
-6.  http://dangerouslyawesome.com/2012/09/5-reasons-your-community-isnt-growing/ 
-7.  http://www.nytimes.com/2012/04/22/us/smart-muni-app-for-san-francisco-transit-goes-unused.html 
-8.  http://host.madison.com/ct/news/local/error-why-are-madison-s-open-data-and-civic-hacking/article_a25a8ffd-0afd-5016-ac6f-305b2217d2c3.html 
+4. http://www.pbs.org/transistor/album1/addlbios/kelly.html
+5. http://www.nytimes.com/2012/02/26/opinion/sunday/innovation-and-the-bell-labs-miracle.html
+6. http://cityinnovate.org/superpublic/
+7.  http://technical.ly/philly/2016/04/11/gabriel-farrell-city-government/ 
+8.  For a fuller discussion of the issues in the Madison civic technology community, see http://host.madison.com/ct/news/local/error-why-are-madison-s-open-data-and-civic-hacking/article_a25a8ffd-0afd-5016-ac6f-305b2217d2c3.html  
+9.  http://dangerouslyawesome.com/2012/09/5-reasons-your-community-isnt-growing/ 
+10.  http://www.nytimes.com/2012/04/22/us/smart-muni-app-for-san-francisco-transit-goes-unused.html 
+11.  http://host.madison.com/ct/news/local/error-why-are-madison-s-open-data-and-civic-hacking/article_a25a8ffd-0afd-5016-ac6f-305b2217d2c3.html 
 

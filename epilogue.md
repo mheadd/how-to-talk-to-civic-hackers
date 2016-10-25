@@ -16,7 +16,7 @@ Private companies that use bug bounties also hire outside security experts to co
 
 We live in a time when people outside of government often have better tools to build things with government data than government employees themselves. This imbalance has implications for those that want to use technology and data to make government work more effectively. The process of using data and technology to improve the way governments work is now inextricably linked to how effective governments are at engaging with outside data users and technologists.
 
-Providing public services in the 21st century requires an update to the tool set that governments have to bring technology and data to bear on persistent problems. 
+Providing public services in the 21st century requires an update to the tool set that governments have to bring technology and data to bear on persistent problems. One of the most potent resources that governments have access to to, to help them fulfill their mission to provide services to the public, is in the groups of talented, passionate people that make up their local technology community.
 
 ### Footnotes
 

@@ -19,7 +19,7 @@ Private companies that use bug bounties also hire outside security experts to co
 
 This same is true when governments collaborate with outside technology groups. Providing open data, open source code and collaborating with groups of talented outsiders to focus on important problems are a part of the job description for public servants in the 21st century. But this isn't the only tool that public servant have in their toolkit.
 
-This book has began with a simple observation - we now live in a time when people outside of government often have better tools to build things with government data than government employees themselves. This imbalance has implications for those inside government that want to use technology and data to make government work more effectively. 
+This book began with a simple observation - we now live in a time when people outside of government often have better tools to build things with government data than government employees themselves. This imbalance has implications for those inside government that want to use technology and data to make government work more effectively. 
 
 The process of using data and technology to improve the way governments work is now inextricably linked to how effective governments are at engaging with outside data users and technology experts.
 

@@ -6,13 +6,13 @@
 
 >Our findings show a critical link between cities and practitioners. Civic tech is not a sector that has been driven forward entirely outside of governmental systems. Rather, it has been built in partnership with key stakeholders inside and outside government…<sup>1</sup>
 >
->-- Omidyar Network: Engines of Change 
+>— Omidyar Network: Engines of Change 
 
 The prospect of partnering with innovators in the local technology community has many potential benefits for those working in the bureaucracy. This is particularly true for state and local governments, which can face more acute challenges in acquiring and managing technology, and in attracting employees with the skill sets to build new solutions and use data in creative ways.
 
 But working with outside groups of technology volunteers is not without challenges either. 
 
-## Managing a volunteer army
+## Managing a Volunteer Army
 
 In surveying a group of current and former city government employees with experience working with outside technology groups and similar kinds of volunteers, a common set of issues appears.
 

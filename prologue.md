@@ -10,7 +10,7 @@ These new data tools tools are more powerful, more plentiful, more flexible, and
 
 We've seen this trend before.
  
-Not long ago, making a map on the internet required specialized skills and proprietary tools. Then came Google Maps. Now platforms like Mapbox, Carto, Mapzen and countless others have democratized mapmaking, and given citizen map makers cheaper, more powerful tools than many government employees have.
+Not long ago, making a map on the internet required specialized skills and proprietary tools. Then came Google Maps. Now platforms like Mapbox, Carto, Mapzen and countless others have democratized mapmaking, and given citizen mapmakers cheaper, more powerful tools than many government employees have.
 
 The process of using data and technology to improve the way governments work is now inextricably linked to how effective governments are at engaging with outside data users and technologists.
 

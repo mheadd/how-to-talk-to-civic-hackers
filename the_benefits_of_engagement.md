@@ -9,7 +9,7 @@
 
 It is a widely held truism that governments face difficulty implementing technology solutions, and that they generally manage IT projects very poorly.
 
-It can be tempting to view this lack of technology acumen as a symptom of a larger disfunction. Governments are thought to be large, plodding organizations that do lots of things poorly;technology management and implementation are but one of the many things that governments do not do well. But the challenges facing governments in how they use technology are quite specific. There are a handful of processes, all easily identifiable, that can work against the efficient adoption of technology by governments.
+It can be tempting to view this lack of technology acumen as a symptom of a larger disfunction. Governments are thought to be large, plodding organizations that do lots of things poorly technology management and implementation are but one of the many things that governments do not do well. But the challenges facing governments in how they use technology are quite specific. There are a handful of processes, all easily identifiable, that can work against the efficient adoption of technology by governments.
 
 * The annual budget process can provide a disincentive for new ideas and large efficiency gains by "punishing" innovative agencies with smaller allocations and reduced staff in the next budget cycle. 
 
@@ -49,7 +49,7 @@ More than most other cities, Chicago is benefiting from the talents and skills o
 
 This regular, close proximity between city officials with access to and intimate knowledge of city data to members of the technology community with technology skills and a strong desire to improve their city has led to a number of successful projects.<sup>4</sup> 
 
-One of the more notable examples of how the City of Chicago is benefiting from the outside expertise in its local technology community is a project to build predictive models for identifying beaches that have heightened E.Coli bacteria levels.<sup>5</sup> The city had previously developed its own predictive model for food safety violations internally,<sup>6</sup> but this project was a departure from past experience.The series of predictive models developed to detect heightened E.Coli bacteria levels was developed in direct collaboration with outside volunteers, and the finished work was meant to be used inside the bureaucracy by the Chicago Park District.
+One of the more notable examples of how the City of Chicago is benefiting from the outside expertise in its local technology community is a project to build predictive models for identifying beaches that have heightened E.Coli bacteria levels.<sup>5</sup> The city had previously developed its own predictive model for food safety violations internally,<sup>6</sup> but this project was a departure from past experience. The series of predictive models developed to detect heightened E.Coli bacteria levels was developed in direct collaboration with outside volunteers, and the finished work was meant to be used inside the bureaucracy by the Chicago Park District.
 
 While the preexisting model used by the Park District was error prone, in part due to its reliance on data collected by the Park District itself, the new predictive models developed with outside experts incorporated a wider range of data from many different sources:
 
@@ -93,7 +93,7 @@ SEPTAs view of open data has evolved over time. Prior to formally embracing open
 
 Originally developed in 2008, the creators of iSepta shut down their app in late 2014 because, as they noted in a final posting on the app website, "there are [now] other, better options available." These other options were almost all built with open data released by SEPTA after the iSepta app had been built and provided an object lesson in the power of the local technology community. (Incidentally, SEPTA launched a version of its own mobile app for Android users at almost the same time that the original iSepta app was shut down.<sup>13</sup>)
 
-The approach taken by SEPTA in developing its own official transit app is instructive for other governments that want to collaborate with outside technologists.<sup>14</sup> The official SEPTA app was never meant to replace existing transit apps that had been developed by the community— and by that time there were many—it was meant to complement them. By using open data and freely available APIs to encourage outside developers to try new things, SEPTA was given invaluable insights into the possibilities for its data. 
+The approach taken by SEPTA in developing its own official transit app is instructive for other governments that want to collaborate with outside technologists.<sup>14</sup> The official SEPTA app was never meant to replace existing transit apps that had been developed by the community—and by that time there were many—it was meant to complement them. By using open data and freely available APIs to encourage outside developers to try new things, SEPTA was given invaluable insights into the possibilities for its data. 
 
 What things would developers try and build? What new technologies were available for displaying and consuming transit data? What would work well? What wouldn't work well? 
 
@@ -101,7 +101,7 @@ One way to view this approach is to think of it as a technique for outsourcing s
 
 Having these kinds of insights prior to building an official app gave SEPTA a huge advantage in deciding what they wanted to build. It's also worth noting that the code for SEPTA's own official app was released as open source so that any transit developer—perhaps someone that had previously attended a hackathon and built a transit app of their own—can identify an issue or contribute an enhancement.<sup>17</sup>
 
-## Syracuse: Making Better use of Road Data
+## Syracuse: Making Better Use of Road Data
 
 Like other cities in the Snowbelt, Syracuse faces a constant challenge in maintaining its roads. 
 

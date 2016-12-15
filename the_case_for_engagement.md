@@ -22,7 +22,7 @@ This section will discuss the last two categories in more detail, as they relate
 
 ## Building Better Services Together
 
-There is a rich history of research and practice around the idea of “coproduction” of public services which is directly relevant to the discussion of collaborating with technology groups outside of government. That being said, there are lots of people in the world of civic technology that are unaware of the this long history of study and practice, and there are many people inside government familiar with coproduction that are not aware of how this concept relates to outside engagement with volunteer technology groups.
+There is a rich history of research and practice around the idea of “coproduction” of public services which is directly relevant to the discussion of collaborating with technology groups outside of government. That being said, there are lots of people in the world of civic technology that are unaware of this long history of study and practice, and there are many people inside government familiar with coproduction that are not aware of how this concept relates to outside engagement with volunteer technology groups.
 
 In explaining what coproduction is and how it works, one of the most commonly used examples is community policing, where policing services are improved by directly interacting with residents in a neighborhood. Through personal interactions, police officers working in a particular neighborhood may gain insights and information that help them develop better strategies for crime prevention, and ultimately provide better service to the community. In this coproduction example, the residents of a neighborhood provide a kind of expertise—their intimate knowledge of a place and the people in it—to help refine and improve a public service.
 
@@ -52,7 +52,7 @@ Volunteers in the world of civic technology work on solutions to civic problems 
 
 ## A New Way of Collaborating
 
-The kinds of collaboration discussed in this book—government employees collaborating with volunteer technology groups—fits well into our understanding of coproduction, an approach that governments have used for the last several decades. However, there are some differences between the way traditional coproduction has worked and how engaging with outside technologists to foster new solutions can work. We need to understand these differences and be able to describe them.
+The kind of collaboration discussed in this book—government employees collaborating with volunteer technology groups—fits well into our understanding of coproduction, an approach that governments have used for the last several decades. However, there are some differences between the way traditional coproduction has worked and how engaging with outside technologists to foster new solutions can work. We need to understand these differences and be able to describe them.
 
 One way to do this is to classify these activities not as coproduction, but as something new:
 

@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 * [About this book](about_this_book.md)
@@ -10,5 +10,4 @@
 * [Epilogue](epilogue.md)
 * [Appendix](appendix.md)
 * [Glossary](glossary.md)
-
 

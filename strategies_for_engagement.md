@@ -1,12 +1,14 @@
-# Section 4: Strategies for Engagement
+# Strategies for Engagement
 
-| ![Hack for Reno: Reno, NV, October 2014](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/hack_for_reno.jpg) | 
-|:---:|
+|  |
+| :---: |
 | Hack for Reno: Reno, NV, October 2014 |
 
->The promise of opening government is that, by connecting government institutions to people and organizations with diverse forms of expertise, government will be able to produce better results. <sup>1</sup>
+![Hack for Reno: Reno, NV, October 2014](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/hack_for_reno.jpg)
+
+> The promise of opening government is that, by connecting government institutions to people and organizations with diverse forms of expertise, government will be able to produce better results. 1
 >
->— Beth Simone Noveck: Smart Citizens, Smarter State
+> — Beth Simone Noveck: Smart Citizens, Smarter State
 
 Strategies for engaging with the local technology community should be an important part of the toolkit of every government that wants to use data and technology to improve public services and to make governments operate more efficiently.
 
@@ -14,53 +16,53 @@ Looking to governments with experience forging these kinds of partnerships helps
 
 ## Open Data
 
-The common ingredient in every successful engagement effort with local technology communities is open data.<sup>2</sup>
+The common ingredient in every successful engagement effort with local technology communities is open data.2
 
-Building a formal open data program that prioritizes the release of highly valuable, usable data is the cornerstone on which successful technology engagement rests. Making data easily discoverable, and formatting it in ways that invite outside users to create new things is an invitation to the local technology community, as well as  researchers, entrepreneurs, journalists, civic activists, and many others,
+Building a formal open data program that prioritizes the release of highly valuable, usable data is the cornerstone on which successful technology engagement rests. Making data easily discoverable, and formatting it in ways that invite outside users to create new things is an invitation to the local technology community, as well as researchers, entrepreneurs, journalists, civic activists, and many others,
 
-It's worth noting the contrast between data that is made available explicitly for outside users to build things with, and data that is merely made available publicly. Open data is specifically formatted to be usable in software platforms and data analysis tools. Public data is available for viewing, typically as an HTML page (or series of pages), a PDF document, or in some similar format suitable for publishing on the web. It is meant to be consumed by human eyeballs, not by computer programs or software applications.
+It's worth noting the contrast between data that is made available explicitly for outside users to build things with, and data that is merely made available publicly. Open data is specifically formatted to be usable in software platforms and data analysis tools. Public data is available for viewing, typically as an HTML page \(or series of pages\), a PDF document, or in some similar format suitable for publishing on the web. It is meant to be consumed by human eyeballs, not by computer programs or software applications.
 
-It is possible to access public data in a programmatic fashion through the use of scraping tools that are available in most programming languages,<sup>3</sup> through increasingly plentiful web-based services,<sup>4</sup> or even using something as simple as Google Docs.<sup>5</sup> However, writing web scrapers or using third-party services to obtain public data in bulk, while not technically difficult and increasingly inexpensive, does place a barrier in front of data that can make it more difficult to obtain.
+It is possible to access public data in a programmatic fashion through the use of scraping tools that are available in most programming languages,3 through increasingly plentiful web-based services,4 or even using something as simple as Google Docs.5 However, writing web scrapers or using third-party services to obtain public data in bulk, while not technically difficult and increasingly inexpensive, does place a barrier in front of data that can make it more difficult to obtain.
 
-A key part of successfully engaging with outside technology groups is understanding the signals that data publishing can send to the members of this community. Publishing data openly in easy-to-use formats and making it easy to find on a centralized web portal tells the outside technology community that your government wants to collaborate and build things together. Publishing valuable data only in inaccessible formats like PDF, making it publicly available on a government website but not available as a bulk download—or worse, requiring people to submit formal requests for data through open records laws—signals that your government is stuck in the 20th century, does not want to collaborate. 
+A key part of successfully engaging with outside technology groups is understanding the signals that data publishing can send to the members of this community. Publishing data openly in easy-to-use formats and making it easy to find on a centralized web portal tells the outside technology community that your government wants to collaborate and build things together. Publishing valuable data only in inaccessible formats like PDF, making it publicly available on a government website but not available as a bulk download—or worse, requiring people to submit formal requests for data through open records laws—signals that your government is stuck in the 20th century, does not want to collaborate.
 
-Governments building open data platforms should also include ways for data users to suggest new data releases and to provide feedback on existing releases should be available. Making feedback channels readily available, and being responsive to the feedback provided, underscores your government’s commitment to collaboration. Neglecting this detail will send a tangible signal that your government is not interested in listening to data users.<sup>6</sup>
- 
-Another important signal that governments can send to outside data users is to demonstrate the value of data that is released publicly by using that data themselves. In technology parlance, this is often referred to as “dogfooding,” where a company or firm makes use of its own products and services to conduct its business. When governments release one version of data for outside users and make use of another, richer version for their own work, it can relegate the publicly-released version to second class status.<sup>7</sup> This is especially true of data that is made available on centralized open data portals, or data that is made available through an API. If governments themselves are not willing to use the data they make available on official open data portals or through government open data APIs, then why should anyone else bother?
+Governments building open data platforms should also include ways for data users to suggest new data releases and to provide feedback on existing releases should be available. Making feedback channels readily available, and being responsive to the feedback provided, underscores your government’s commitment to collaboration. Neglecting this detail will send a tangible signal that your government is not interested in listening to data users.6
 
-The City of Philadelphia makes extensive use of open data APIs and has developed official city web applications that leverage the very same APIs that are made available for public use. If there is a problem or issue with these data resources that could impact outside users, the city feels the pain of these issues as well and is more likely to move quickly to resolve them.<sup>8</sup>  Another example of this principle at work—discussed in Section 2—can be seen in Chicago, which has developed a predictive model for food safety inspections that uses the very same data sets available to the public on the city's open data portal.<sup>9</sup> 
+Another important signal that governments can send to outside data users is to demonstrate the value of data that is released publicly by using that data themselves. In technology parlance, this is often referred to as “dogfooding,” where a company or firm makes use of its own products and services to conduct its business. When governments release one version of data for outside users and make use of another, richer version for their own work, it can relegate the publicly-released version to second class status.7 This is especially true of data that is made available on centralized open data portals, or data that is made available through an API. If governments themselves are not willing to use the data they make available on official open data portals or through government open data APIs, then why should anyone else bother?
+
+The City of Philadelphia makes extensive use of open data APIs and has developed official city web applications that leverage the very same APIs that are made available for public use. If there is a problem or issue with these data resources that could impact outside users, the city feels the pain of these issues as well and is more likely to move quickly to resolve them.8 Another example of this principle at work—discussed in Section 2—can be seen in Chicago, which has developed a predictive model for food safety inspections that uses the very same data sets available to the public on the city's open data portal.9
 
 ## Open Source Software
 
-Another common element in successful efforts to engage with local technology communities is open source software. 
+Another common element in successful efforts to engage with local technology communities is open source software.
 
-When governments share the source code for the software they build and buy on platforms like Github, along with clear instructions for how outside developers can contribute, it sends a strong signal that they want to collaborate. A growing number of governments are using open source as not only a way to be transparent about investment in technology, but also as a way to collaborate on specific software projects with outside developers.<sup>10</sup>
+When governments share the source code for the software they build and buy on platforms like Github, along with clear instructions for how outside developers can contribute, it sends a strong signal that they want to collaborate. A growing number of governments are using open source as not only a way to be transparent about investment in technology, but also as a way to collaborate on specific software projects with outside developers.10
 
-Section 2 discussed the efforts of the Southeastern Pennsylvania Regional Transportation Authority (SEPTA) to both release open data and publish the source code for software applications as open source. SEPTAs publishing of transit data in open formats fostered the development of a host of new software tools for transit riders by the local technology community. When the organization later opted to develop an official set of mobile apps for transit riders, they released the source code for these apps on Github, where anyone can view the code, log an issue or suggest an improvement. This reinforces the organization's commitment to working with outside developers and opens new pathways for collaboration.
+Section 2 discussed the efforts of the Southeastern Pennsylvania Regional Transportation Authority \(SEPTA\) to both release open data and publish the source code for software applications as open source. SEPTAs publishing of transit data in open formats fostered the development of a host of new software tools for transit riders by the local technology community. When the organization later opted to develop an official set of mobile apps for transit riders, they released the source code for these apps on Github, where anyone can view the code, log an issue or suggest an improvement. This reinforces the organization's commitment to working with outside developers and opens new pathways for collaboration.
 
-An easy way to get started on sharing software code more openly is to focus on applications or components that are citizen-facing and web-based. For example, the City of Philadelphia publishes the source code for a citizen-facing app that lets city residents look up the details of a specific property (one of the most common reasons that citizen visit the city's web site).<sup>11</sup> Since this application is built with common web components like HTML, CSS and JavaScript, the underlying source code is already visible in a user's web browser (if the user knows how to look fr it). But by sharing this software code on Github, which has tools that let users suggest changes or point out defects, with a standard open source license, the city is explicitly articulating an opportunity to collaborate. 
+An easy way to get started on sharing software code more openly is to focus on applications or components that are citizen-facing and web-based. For example, the City of Philadelphia publishes the source code for a citizen-facing app that lets city residents look up the details of a specific property \(one of the most common reasons that citizen visit the city's web site\).11 Since this application is built with common web components like HTML, CSS and JavaScript, the underlying source code is already visible in a user's web browser \(if the user knows how to look fr it\). But by sharing this software code on Github, which has tools that let users suggest changes or point out defects, with a standard open source license, the city is explicitly articulating an opportunity to collaborate.
 
 For obvious reasons, it may be difficult or impractical for governments to share the software code for older legacy applications. But adopting a formal approach to sharing software code as open source may create incentives for governments to build and buy new software more effectively. A formal open source policy can help governments think of software applications as a set of components instead of one monolithic application. Structuring citizen-facing applications as a set of web-based components that leverage a shared backend API can make it easier to share those components as open source software, and make it easier to build and maintain such applications.
 
 ## Pick a Champion
 
-Another strong signal that governments can send to the outside technology community that they are ready to engage and collaborate is to appoint someone to act as the chief liaison for that community inside of government.<sup>12</sup>
+Another strong signal that governments can send to the outside technology community that they are ready to engage and collaborate is to appoint someone to act as the chief liaison for that community inside of government.12
 
-This person can be a Chief Data Officer, a Civic Technology Advocate and Innovation Specialist, or whatever other title is deemed appropriate. Examples of officials with these and other titles can be seen in many cities across the country (and in other countries). This person should be someone empowered to lead engagement efforts and have authority to work across different agencies—part of the job of this position will be to identify opportunities for agencies to collaborate with outside groups in productive ways.
+This person can be a Chief Data Officer, a Civic Technology Advocate and Innovation Specialist, or whatever other title is deemed appropriate. Examples of officials with these and other titles can be seen in many cities across the country \(and in other countries\). This person should be someone empowered to lead engagement efforts and have authority to work across different agencies—part of the job of this position will be to identify opportunities for agencies to collaborate with outside groups in productive ways.
 
-In practice, this position is often organizationally aligned with the central technology agency, within an innovation office, or, less frequently, as part of the mayor’s office. Wherever this position is accommodated within a government organizational structure, efforts should be made to align it with other parts of the organization that use external engagement as part of their work. 
+In practice, this position is often organizationally aligned with the central technology agency, within an innovation office, or, less frequently, as part of the mayor’s office. Wherever this position is accommodated within a government organizational structure, efforts should be made to align it with other parts of the organization that use external engagement as part of their work.
 
 For example, planning departments and economic development offices make extensive use of external engagement and outside networks to do their work. There may be overlap in the communities that these other offices of government interact with and those in the technology community that will want and use government data. In addition, these other agencies may have valuable insights into engagement techniques that have proven successful in the past, and those that have not.
 
 ## Be Present
 
-Perhaps the most important job of the person (or people) appointed to lead engagement efforts with outside technology groups is to be present in places where the members of this community come together to do their work.
+Perhaps the most important job of the person \(or people\) appointed to lead engagement efforts with outside technology groups is to be present in places where the members of this community come together to do their work.
 
 Being visible and available for members of this community who want to collaborate or have questions is absolutely critical to the success of external engagement efforts. In every city that has developed strong relationships with their local technology community, officials are present at regular technology meetups and events. Most are active participants or supporters of such events.
 
-In some places, as one respondent to the survey of current and former city employees explained, external groups are opting to bring their regular meetings into government buildings. 
+In some places, as one respondent to the survey of current and former city employees explained, external groups are opting to bring their regular meetings into government buildings.
 
-> The city hosts [the city’s] Hack Night at city hall every other Tuesday...the Director of Open Data and Performance Management attends various community and technology meetups to get the word out about the city's work. 
+> The city hosts \[the city’s\] Hack Night at city hall every other Tuesday...the Director of Open Data and Performance Management attends various community and technology meetups to get the word out about the city's work.
 
 The City of Oakland has regularly hosted outside technology groups inside city hall, and the City of Philadelphia has hosted technology events with outside groups in its city hall as well. Sometimes the Mayor is even on hand to kick things off.
 
@@ -72,13 +74,13 @@ In Section 1, we reviewed some of the existing mechanisms that governments curre
 
 When a government issues an RFP, it does so in accordance with a formal policy that has been adopted to govern the process and to make it legal. Government task forces and commissions are organized through the adoption of formal policy declarations that outline the scope of their authority and the deliverables they must provide. When agencies engage in coproduction and partner with external users to improve a service, they do so under the purview of official policies and through the allocation of funds from adopted budgets.
 
-Many volunteer activities that benefit governments and supplement public services also happen through an official grant of sanction from government. For example, adopt-a-highway programs use official signage on roadways to designate the groups responsible for cleaning them, and some governments have formal designations for groups of volunteers that work directly with city agencies. In the City of Philadelphia, there is an official program to designate citizens who have the support of their neighbors as "Block Captains." These individuals act as the liaison for a community and interact directly with designated employees within city government. <sup>13</sup>
+Many volunteer activities that benefit governments and supplement public services also happen through an official grant of sanction from government. For example, adopt-a-highway programs use official signage on roadways to designate the groups responsible for cleaning them, and some governments have formal designations for groups of volunteers that work directly with city agencies. In the City of Philadelphia, there is an official program to designate citizens who have the support of their neighbors as "Block Captains." These individuals act as the liaison for a community and interact directly with designated employees within city government. 13
 
 In Section 3, some of the challenges of working with outside technology groups were discussed. One problem that emerged in this section is that, in some cities, there are limitations for government employees on the kinds of tools and platforms that can be used to interact and collaborate with outside technology groups. In addition, even when government officials are present at external technology events, it can sometimes represent an ambiguous commitment from government primarily because most events take place after hours or on weekends. Are these individuals attending in their official capacity, or as enthusiastic technology volunteers themselves? It's not always clear.
 
 As with the other mechanisms that governments employ to tap into external expertise, the tools and practices used to engage with a local technology community need to be granted official sanction. Governments that want to succeed at this kind of engagement would do well to remove limitations on tools or platforms that are used to interact and collaborate with the outside technology community, and by adopting official policies to govern remote and after-hours work.
 
-Any official policy around open data and external engagement can't be successful if the tools and practices needed to engage with data users aren't officially supported as part of a government employee's job duties.  
+Any official policy around open data and external engagement can't be successful if the tools and practices needed to engage with data users aren't officially supported as part of a government employee's job duties.
 
 ## Bend the Rules
 
@@ -86,9 +88,9 @@ Another theme from the previous section on the challenges of working with outsid
 
 The existing government procurement process can be lengthy and complex and is often not a good fit for projects developed by outside technology groups. An example of this can be seen by looking at a project to build a website for lobbying data in the City of Chicago.
 
-After a group of technology volunteers created a website with data released by the City of Chicago, the city issued a formal RFP for a lobbyist disclosure application that was very similar to the volunteer project that had already been developed. Because the volunteer group was not organized in a way that would have allowed it to bid on the RFP, the contract eventually went to an existing vendor. The issuing of the RFP and the award of the contract were met with exasperation and frustration from the volunteer technology community.<sup>14</sup>
+After a group of technology volunteers created a website with data released by the City of Chicago, the city issued a formal RFP for a lobbyist disclosure application that was very similar to the volunteer project that had already been developed. Because the volunteer group was not organized in a way that would have allowed it to bid on the RFP, the contract eventually went to an existing vendor. The issuing of the RFP and the award of the contract were met with exasperation and frustration from the volunteer technology community.14
 
-Some cities have successfully circumvented the more onerous requirements of the formal RFP process by using small dollar procurement thresholds to target projects to smaller groups that might not be able to respond to a formal RFP.<sup>15</sup> The City of Philadelphia has done this with some success by aggregating small dollar procurements into a central website where interested parties can easily find and respond to them.<sup>16</sup> The City of Syracuse, New York has partnered with a small New York City startup to provide cameras and inexpensive computers to map every pothole in the city by positioning the project as a pilot and allowing the company to use its work on the project in marketing materials.<sup>17</sup>
+Some cities have successfully circumvented the more onerous requirements of the formal RFP process by using small dollar procurement thresholds to target projects to smaller groups that might not be able to respond to a formal RFP.15 The City of Philadelphia has done this with some success by aggregating small dollar procurements into a central website where interested parties can easily find and respond to them.16 The City of Syracuse, New York has partnered with a small New York City startup to provide cameras and inexpensive computers to map every pothole in the city by positioning the project as a pilot and allowing the company to use its work on the project in marketing materials.17
 
 ## Summary
 
@@ -98,24 +100,25 @@ Appointing an official to act as the point of contact for engagement efforts wit
 
 Removing internal barriers facing government employees that are working to collaborate with the local technology community is important. If the official duties of government employees working with outside technology volunteers don't support effective engagement, such efforts will ultimately be less successful.
 
-Governments need to be creative in finding ways to continue collaboration on projects long-term, and to transfer authority of volunteer-developed projects in house through small dollar procurements or other means. 
+Governments need to be creative in finding ways to continue collaboration on projects long-term, and to transfer authority of volunteer-developed projects in house through small dollar procurements or other means.
 
 ### Endnotes
-1.  http://www.hup.harvard.edu/catalog.php?isbn=9780674286054 
-2.  The Center for Government Excellence at Johns Hopkins University maintains a large number of highly useful guides for designing and implementing a formal open data program. See https://www.gitbook.com/@centerforgov 
-3.  http://stackoverflow.com/questions/2861/options-for-html-scraping
-4.  https://morph.io/ 
-5.  https://support.google.com/drive/answer/3093339 
-6.  The City of Philadelphia has successfully and for many years used Google Groups as a way to foster dialog on open data releases. See https://groups.google.com/forum/?fromgroups#!forum/opendataphilly 
-7.  There are some obvious exceptions to the dogfooding principle. For example, if a data set contains personally identifying information or other sensitive information, a redacted version may be made available publicly and the complete version used internally by government agencies. In these instances, however, governments should clearly communicate these circumstances to outside data users.
-8.  For a complete listing of these open data APIs, see http://phlapi.com/. 
-9.  See https://github.com/chicago/food-inspections-evaluation/ 
-10. https://government.github.com/
-11. https://github.com/CityOfPhiladelphia/property2 
-12.  There is a set of detailed guidelines for creating formal open data policies and appointing officials to oversee such efforts available from the Sunlight Foundation. See http://sunlightfoundation.com/opendataguidelines/. 
-13.  Block Captains in Philadelphia are also issued ID cards to designate their status. http://www.philadelphiastreets.com/pmbc/block-captain 
-14.  http://blog.chicagolobbyists.org/2012/01/12/chicago-aint-ready-for-procurement-reform/ 
-15.  A list of procurement threhilds for various cities and states can be found at http://openprocure.us/. 
-16.  http://bigideasphl.com/ 
-17.  http://www.syracuse.com/news/index.ssf/2016/04/syracuse_to_map_potholes_with_35_computer.html 
+
+1. [http://www.hup.harvard.edu/catalog.php?isbn=9780674286054](http://www.hup.harvard.edu/catalog.php?isbn=9780674286054) 
+2. The Center for Government Excellence at Johns Hopkins University maintains a large number of highly useful guides for designing and implementing a formal open data program. See [https://www.gitbook.com/@centerforgov](https://www.gitbook.com/@centerforgov) 
+3. [http://stackoverflow.com/questions/2861/options-for-html-scraping](http://stackoverflow.com/questions/2861/options-for-html-scraping)
+4. [https://morph.io/](https://morph.io/) 
+5. [https://support.google.com/drive/answer/3093339](https://support.google.com/drive/answer/3093339) 
+6. The City of Philadelphia has successfully and for many years used Google Groups as a way to foster dialog on open data releases. See [https://groups.google.com/forum/?fromgroups\#!forum/opendataphilly](https://groups.google.com/forum/?fromgroups#!forum/opendataphilly) 
+7. There are some obvious exceptions to the dogfooding principle. For example, if a data set contains personally identifying information or other sensitive information, a redacted version may be made available publicly and the complete version used internally by government agencies. In these instances, however, governments should clearly communicate these circumstances to outside data users.
+8. For a complete listing of these open data APIs, see [http://phlapi.com/](http://phlapi.com/). 
+9. See [https://github.com/chicago/food-inspections-evaluation/](https://github.com/chicago/food-inspections-evaluation/) 
+10. [https://government.github.com/](https://government.github.com/)
+11. [https://github.com/CityOfPhiladelphia/property2](https://github.com/CityOfPhiladelphia/property2) 
+12. There is a set of detailed guidelines for creating formal open data policies and appointing officials to oversee such efforts available from the Sunlight Foundation. See [http://sunlightfoundation.com/opendataguidelines/](http://sunlightfoundation.com/opendataguidelines/). 
+13. Block Captains in Philadelphia are also issued ID cards to designate their status. [http://www.philadelphiastreets.com/pmbc/block-captain](http://www.philadelphiastreets.com/pmbc/block-captain) 
+14. [http://blog.chicagolobbyists.org/2012/01/12/chicago-aint-ready-for-procurement-reform/](http://blog.chicagolobbyists.org/2012/01/12/chicago-aint-ready-for-procurement-reform/) 
+15. A list of procurement thresholds for various cities and states can be found at [http://openprocure.us/](http://openprocure.us/). 
+16. [http://bigideasphl.com/](http://bigideasphl.com/) 
+17. [http://www.syracuse.com/news/index.ssf/2016/04/syracuse\_to\_map\_potholes\_with\_35\_computer.html](http://www.syracuse.com/news/index.ssf/2016/04/syracuse_to_map_potholes_with_35_computer.html) 
 

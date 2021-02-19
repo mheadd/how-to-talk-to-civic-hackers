@@ -4,9 +4,11 @@ We live in a time when people outside of government often have better tools to b
 
 These new data tools tools are more powerful, more plentiful, more flexible, and less expensive than many of the tools that government employees currently have at their disposal. Governments typically have relationships with large technology companies like Microsoft, IBM, Esri, Oracle and others that offer an array of different data tools. But the gulf between what outside experts in the technology community - whether in the private or nonprofit sector - can accomplish and what governments can achieve on their own is growing wider.
 
-| ![Education Hack Day: Baltimore, MD, November 2011](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/education_hackathon.jpg) |
+|  |
 | :---: |
 | Education Hack Day: Baltimore, MD, November 2011 |
+
+![Education Hack Day: Baltimore, MD, November 2011](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/education_hackathon.jpg)
 
 We've seen this trend before.
 

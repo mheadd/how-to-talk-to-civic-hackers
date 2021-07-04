@@ -82,7 +82,7 @@ Helping to ensure that the efforts of volunteer technology groups are appropriat
 
 Finding the right balance can be a challenge.
 
-##The Sustainability Problem
+## The Sustainability Problem
 
 A persistent problem that vexes many volunteer technology communities is the long-term sustainability of solutions that are development, and transitioning them to governments where appropriate.
 

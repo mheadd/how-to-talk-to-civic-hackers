@@ -1,14 +1,10 @@
 # About this book
 
-|  |
-| :---: |
-| Empathy Jam: New York City, August 2016 |
-
-![Empathy Jam: New York City, August 2016](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/empathy_jam.jpg)
+![Empathy Jam: New York City, August 2016](https://raw.githubusercontent.com/mheadd/how-to-talk-to-civic-hackers/master/images/empathy\_jam.jpg)
 
 > We need to insist on collaboration not merely as an ideal, but as a basic design element for government.1
 >
-> -- The Collaborative State
+> \-- The Collaborative State
 
 ## Why write this book?
 
@@ -32,11 +28,11 @@ This book offers strategies to overcome these barriers and leverage the talents 
 
 ## Who is this book for?
 
-This book is meant for public servants and people working inside government \(at the federal, state, and municipal levels\) who want to connect with innovators and technologists outside of the bureaucracy. It is meant to complement other useful sources of information for government employees on engagement and outreach around data and technology.4
+This book is meant for public servants and people working inside government (at the federal, state, and municipal levels) who want to connect with innovators and technologists outside of the bureaucracy. It is meant to complement other useful sources of information for government employees on engagement and outreach around data and technology.4
 
 It is designed to help civil servants find, communicate, and collaborate with people doing interesting and valuable work-particularly those working with technology-that can benefit or support the mission of government. It highlights strategies to help government employees leverage the talents of smart, passionate people in their local technology community, as well as those further afield.
 
-This book was written, in part, using responses from a survey of government employees \(and former employees\) from a number of different jurisdictions that have well-established relationships with outside groups of volunteer technologists.
+This book was written, in part, using responses from a survey of government employees (and former employees) from a number of different jurisdictions that have well-established relationships with outside groups of volunteer technologists.
 
 ## How is this book organized?
 
@@ -62,8 +58,7 @@ Self taught in technology and software development, he holds a Master's Degree i
 
 ### Endnotes
 
-1. The Collaborative State: How Working Together Can Transform Public Services, ed. Simon Parker and Niamh Gallagher \(London: Demos, 2007\). 
+1. The Collaborative State: How Working Together Can Transform Public Services, ed. Simon Parker and Niamh Gallagher (London: Demos, 2007).&#x20;
 2. For example, requirements to be inclusive and transparent which often add additional steps and time to processes that select or implement technology solutions, or the typical procurement and budgeting processes which can takes months and even years.
 3. As an example, it is uncommon for governments to have formal remote work policies that would allow employees to work outside of traditional government offices.
-4. The Center for Government Excellence at Johns Hopkins University maintains an extensive collection of free resources on using data for better decision making and engaging with outside data users at [https://www.gitbook.com/@centerforgov](https://www.gitbook.com/@centerforgov). 
-
+4. The Center for Government Excellence at Johns Hopkins University maintains an extensive collection of free resources on using data for better decision making and engaging with outside data users at [https://www.gitbook.com/@centerforgov](https://www.gitbook.com/@centerforgov).&#x20;
